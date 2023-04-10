@@ -1,2 +1,2 @@
 alert("Papaya");
-document.write("Pollito");
+document.write(" Pollito ");
